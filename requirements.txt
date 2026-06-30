@@ -1,0 +1,8 @@
+requests
+pandas
+transformers
+torch
+langchain
+langchain-community
+neo4j
+python-dotenv
